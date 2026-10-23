@@ -48,5 +48,5 @@ kubectl delete -f <file>                         # clean up
 - [x] Deployment
 - [x] Service
 - [x] ConfigMaps
-- [ ] Secrets
+- [x] Secrets
 - [ ] Ingress
